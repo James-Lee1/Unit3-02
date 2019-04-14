@@ -1,9 +1,9 @@
 /****************************************************************************
  *
- * Created by: Julie Nguyen
- * Created on: Nov 2018
+ * Created by: James Lee
+ * Created on: Apr 2019
  * Created for: ICS4U
- * Recursive factorial program
+ * This program accepts an integer, and finds its factorial
  *
  ****************************************************************************/
 
