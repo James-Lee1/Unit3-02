@@ -3,7 +3,7 @@
  * Created by: James Lee
  * Created on: Apr 2019
  * Created for: ICS4U
- * This program accepts an integer, and finds its factorial
+ * This program accepts an integer and finds its factorial
  *
  ****************************************************************************/
 
